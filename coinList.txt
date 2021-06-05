@@ -1,0 +1,4 @@
+# CoinName, CoinAmount, USDTAmount, Strategy, BotOnOff,  BotType, GraphDuration
+ETHUSDT:50:0:M:on:S:5m:
+ETHUSDT:50:0:ST:on:S:5m:
+ETHUSDT:50:0:T1:on:S:5m:
